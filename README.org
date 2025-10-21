@@ -60,3 +60,47 @@
 
   Overlap: both center on clarifying terms, surfacing assumptions, and grounding claims in evidence. Differences: mine broadens categories (e.g., testing implications, questioning the question), shifts toward behavior change and experiments, and uses more conversational, coaching-style language. In sum, same methodology; different articulation and application focus.
 
+** Week 03
+- *Activity 4* \\
+  In the unit CIT11238, we have redevelopped an assessment task,
+  portfolio including tutorial questions and lab exercises. 
+  + … assessment is used to engage students in learning that is
+   productive. \\
+   Best practice in this unit is to design lab exercises by utilising
+   physical network devices to engage students in learning this unit.
+    This ssessment is recognised as a learning activity by hand-on
+    network devices. 
+  + … feedback is used to actively improve student learning.\\
+    We designed two in class activities to provide feedback for
+    actively improving student learning.
+  + … students and teachers become responsible partners in learning
+   and assessment. \\
+   There are two or three version of the portfolio tasks. First one
+   is used for checking purpose; the second one is used for feedback
+   to improve and the last one is used to share the responsible that
+   reflect the students and teachers common efforts in learning and
+   assessment.
+  + … students are inducted into the assessment practices and cultures
+    of higher education. \\
+    A week lecture is set aside to help students understand how to
+    draft portfolio, how to utlise the lab facilities and learn the
+    teamwork with clutures of higher education.
+  + … assessment for learning is placed at the centre of subject and
+    program design. \\
+    The portfolio tasks including lab exercises have 40% allocation
+    and the final written assignment is also derived from this
+    assignment. We believe that this type of the assessment task has
+    been placed at the center of subject and program design.
+  + … assessment for learning is a focus for staff and institutional
+    development. \\
+    We put efforts to develop the lab exercises and those are the
+    focus for staff and promote institutional development.
+  + … assessment provides inclusive and trustworthy representation of
+    student achievement. \\
+    We could see the effectiveness in the capstone project how the
+    students use the learned knowledge and skills to build their own
+    network and perform cybersecurity practices.
+
+    
+    
+    
