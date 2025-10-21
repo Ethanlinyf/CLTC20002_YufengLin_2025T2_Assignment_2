@@ -36,6 +36,9 @@
     1. The university culture "To be what you want to be"
     2. Ongoing Learning and professional development
     3. The improvement of my understanding of L&T philosophy. 
+
+** Week 02
+
 - *Activity 2* \\
   *Reflecting on your own assessment practices in your unit, develop
   an infographic that provides information for students around
@@ -43,4 +46,17 @@
 
   [[file:Figure/infographic.png][An inforgraphic for academic integrity]]
 
+  file:Figure/infographic.png
+- *Activity 3* \\
+  file:Figure/GAI.png
+
   
+  They’re not the same, the ideas overlap, but the words, structure,
+  and emphases differ. The provided output reads like a classic overview with five components (clarification, probing assumptions, exploring perspectives, examining evidence, challenging conclusions) followed by practical strategies (active listening, open-ended questions, safety, patience, modeling). It’s explanatory and linear, with a formal tone and traditional definitions. 
+
+  The provided input was into ChatGPT 3.
+
+  My essay is more operational. It adds distinct sections—core principles, six “question families,” a step-by-step loop, multiple domain examples (teaching, coaching, self-reflection), common pitfalls with fixes, ethical cautions, a mini script, and a practice plan. It prioritizes actionable prompts (“What would move you one point on a 0–10 scale?”), implications testing, counterexamples, and synthesis.
+
+  Overlap: both center on clarifying terms, surfacing assumptions, and grounding claims in evidence. Differences: mine broadens categories (e.g., testing implications, questioning the question), shifts toward behavior change and experiments, and uses more conversational, coaching-style language. In sum, same methodology; different articulation and application focus.
+
