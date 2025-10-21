@@ -46,9 +46,9 @@
 
   [[file:Figure/infographic.png][An inforgraphic for academic integrity]]
 
-  file:Figure/infographic.png
+  [[./Figure/infographic.png]]
 - *Activity 3* \\
-  file:Figure/GAI.png
+  [[./Figure/GAI.png]]
 
   
   They’re not the same, the ideas overlap, but the words, structure,
