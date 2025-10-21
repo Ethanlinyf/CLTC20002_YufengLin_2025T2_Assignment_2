@@ -1,5 +1,5 @@
 * CLTC20002_YufengLin2025T2_Assignment_2
-** Week 01
+** Topic 01
 - Activity 1
   + Are your ideas about assessment the same now?\\
     After learning the content this week and read the provided
@@ -37,7 +37,7 @@
     2. Ongoing Learning and professional development
     3. The improvement of my understanding of L&T philosophy. 
 
-** Week 02
+** Topic 02
 
 - *Activity 2* \\
   *Reflecting on your own assessment practices in your unit, develop
@@ -60,7 +60,7 @@
 
   Overlap: both center on clarifying terms, surfacing assumptions, and grounding claims in evidence. Differences: mine broadens categories (e.g., testing implications, questioning the question), shifts toward behavior change and experiments, and uses more conversational, coaching-style language. In sum, same methodology; different articulation and application focus.
 
-** Week 03
+** Topic 03
 - *Activity 4* \\
   In the unit CIT11238, we have redevelopped an assessment task,
   portfolio including tutorial questions and lab exercises. 
@@ -102,5 +102,115 @@
     network and perform cybersecurity practices.
 
     
-    
-    
+** Topic 04
+- *Activity 05* \\
+  In the unit COIT11238 Networked Infrastructure Foundations, we have
+  the following types of the assessment types:
+  + Quiz Questions
+  + In-Class Activities
+  + Portfolios
+    + Tutorial Questions
+    + Lab exercise
+  + Final written assessment.
+
+  In the discipline, we also have some other types of assessment, such
+  as teamwork for a provided case study with report and presentation,
+  a final exam and so on.
+
+  PS, not sure how to use a table in this platform.
+
+** Topic 05
+- *Activity 06* \\
+  See below the assessment design for the unit COIT11238:
+
+  + The learning outcomes\\
+    [[./Figure/LO.png]]
+
+  + The assessment tasks \\
+    [[./Figure/AT.png]]
+
+  + Learning outcomes mapping to assessment tasks \\
+    [[./Figure/LO2AT.png]]
+
+  + Learning outcomes mapping to graduate attributes \\
+    [[./Figure/LO2GA.png]]
+
+  + Assessment tasks mapping to Graduate attributes. \\
+    [[./Figure/AT2GA.png]]
+
+** Topic 06
+- *Activity 7*
+  In the unit COIT11238, we take the example of moderation for the
+  assessment task, portfolio, see below the check list:
+  - [ ] Provide marking guidance
+  - [ ] Requst 3 marking example (good, moderate and poor) from each
+    marker to check
+  - [ ] Feedback with comments and suggestions to make sure the
+    marking based on the provided guidance and aligned to keep on the
+    same standard
+  - [ ] Random check some more samples in the upload marking results
+    with the feedback files
+  - [ ] Check the academic misconduct cases in TurnItin.
+
+** Topic 07
+- *Activity 8*
+  Develop Two rubrics: one is for teamwork in a spreadsheet and the
+  other is embedded in Moodle system. See below the screenshots:
+  [[./Figure/rubric_1.png]]
+
+  [[./Figure/rubric_2.png]]
+
+  \\
+  Prefer the first one, which includes the assessment of individual
+  contributions in a group work. Designing an assessment rubric for
+  group work with individual contributions is crucial for fairness,
+  clarity, and meaningful learning. A well-crafted rubric translates
+  expectations into visible criteria — such as content quality, collaboration, initiative, timeliness, and professional conduct—so students know what “good” looks like and how their personal effort affects outcomes. It safeguards equity by distinguishing shared products from personal impact, reducing free-riding and ensuring recognition for leadership, creativity, or behind-the-scenes coordination. Rubrics also increase reliability: consistent descriptors anchor judgments across markers and projects, making grades more defensible and feedback more actionable. When paired with self- and peer-evidence (e.g., logs, reflections, peer ratings), the rubric triangulates performance to capture process as well as product. Pedagogically, it guides students’ attention to transferable skills—planning, communication, and accountability—while enabling targeted coaching where gaps appear. Practically, it streamlines grading, improves transparency, and reduces conflict over credit. Most importantly, it signals the assessment’s values: collaboration matters, but so does individual responsibility. By aligning tasks, behaviors, and evidence, the rubric turns group work into a structured learning environment where every member understands their role, can monitor progress, and receives credible recognition for their unique contribution.
+
+** Topic 08
+- *Activity 9* \\
+  *Evaluating Three Feedback Modes: Written, Audio, and Video*\\
+
+  [[./Figure/a9.png]]
+  
+  
+** Topic 09
+- *Activity 10* \\
+  Recently, we are providing feedback on student assessment tasks with
+  the following strategies:
+  1. direct comments on their work
+  2. notes in the feedback marking spreadsheet
+  3. A summary posted through a form discussion.
+  4. Response the students’ email about their assessment.
+
+  Now, we could consider creating videos to explain a common issue in
+  the assessment task, or illustrate the practice in a video to show
+  how the solution can be achieve with reference and linkage to the
+  contents and knowledge in this unit.
+
+  MS Teams can be utilised to improve the students’ feedback, which
+  could enhance the communication between teachers and the students,
+  even one to one or in a private channel so that the feedback could
+  be responded in a effective way. 
+     
+- *Activity 11* \\
+
+  [[./Figure/q1.png]] \\
+  [[./Figure/q2.png]] \\
+  [[./Figure/q3.png]] \\
+  [[./Figure/q4.png]] \\
+  [[./Figure/q5.png]] \\
+  [[./Figure/q6.png]] \\
+  [[./Figure/q7.png]] \\
+
+  This is an effective way to generate quiz questions based on the GAI
+  contents, which are professional. It will be helpful for the
+  lecturers to create the practices for students in a quick way and
+  the quiz questions could be updated in different terms. The pool of
+  the questions could be randomly generated for individuals so that
+  the integrity could be ensured. I will consider such effective
+  GAI-based practice in my units. 
+  
+ 
+  
+  
