@@ -8,7 +8,7 @@
     experiences. Professional context and other factors.
 
     The Assessment is a sociocultural and contextual activity. It is a
-    technical process and deeply inflencey by curriculum expectations
+    technical process and deeply influenced by curriculum expectations
     and community values. The assignment shapes and is shaped by the
     identities of both learners and teachers.
 
@@ -52,18 +52,18 @@
   [[./Figure/GAI.png]]
 
   
-  They’re not the same, the ideas overlap, but the words, structure,
+  They’re not the same; the ideas overlap, but the words, structure,
   and emphases differ. The provided output reads like a classic overview with five components (clarification, probing assumptions, exploring perspectives, examining evidence, challenging conclusions) followed by practical strategies (active listening, open-ended questions, safety, patience, modeling). It’s explanatory and linear, with a formal tone and traditional definitions. 
 
-  The provided input was into ChatGPT 3.
+  The provided entered input was into ChatGPT 3.
 
-  My essay is more operational. It adds distinct sections—core principles, six “question families,” a step-by-step loop, multiple domain examples (teaching, coaching, self-reflection), common pitfalls with fixes, ethical cautions, a mini script, and a practice plan. It prioritizes actionable prompts (“What would move you one point on a 0–10 scale?”), implications testing, counterexamples, and synthesis.
+  My essay is more operational. It adds distinct sections—core principles, six “question families,” a step-by-step loop, multiple domain examples (teaching, coaching, self-reflection), common pitfalls with fixes, ethical cautions, a mini script, and a practice plan. It prioritises actionable prompts (“What would move you one point on a 0–10 scale?”), implications testing, counterexamples, and synthesis.
 
-  Overlap: both center on clarifying terms, surfacing assumptions, and
+  Overlap: both centre on clarifying terms, surfacing assumptions, and
   grounding claims in evidence. Differences: mine broadens categories
   (e.g., testing implications, questioning the question), shifts
-  toward behavior change and experiments, and uses more
-  conversational, coaching-style language. In sum, same methodology;
+  toward behaviuor change and experiments, and uses more
+  conversational, coaching-style language. In sum, the same methodology;
   different articulation and application focus.
 
   *Have a think about how students might be able to use AI to cheat
@@ -77,7 +77,7 @@
     ChatGPT to design a basic network and perform packet-capture
     analysis.
 
-  To mitigate these risks, the portfolio task emphasizes
+  To mitigate these risks, the portfolio task emphasises
     hands-on practice and lab exercises using physical network
     devices. Students must document their process with screenshots and
     photographs of tutorial activities and lab work, which
@@ -89,50 +89,48 @@
 
 ** Topic 03
 - *Activity 4* \\
-  In the unit CIT11238, we have redevelopped an assessment task,
-  portfolio including tutorial questions and lab exercises. 
+  In the unit CIT11238, we have redeveloped an assessment task,
+  a portfolio including tutorial questions and lab exercises. 
   + … assessment is used to engage students in learning that is
    productive. \\
-   Best practice in this unit is to design lab exercises by utilising
-   physical network devices to engage students in learning this unit.
-    This ssessment is recognised as a learning activity by hand-on
+   Best practice in this unit is to design lab exercises that utilise
+   physical network devices to engage students in learning.
+    This assessment is recognised as a learning activity by hands-on
     network devices. 
   + … feedback is used to actively improve student learning.\\
-    We designed two in class activities to provide feedback for
+    We designed two in-class activities to provide feedback for
     actively improving student learning.
   + … students and teachers become responsible partners in learning
    and assessment. \\
-   There are two or three version of the portfolio tasks. First one
-   is used for checking purpose; the second one is used for feedback
-   to improve and the last one is used to share the responsible that
-   reflect the students and teachers common efforts in learning and
-   assessment.
+   There are two or three versions of the portfolio tasks. The first one is used for checking purposes; the second one is used for feedback to improve, and the last one is used to share the responsibility that reflects the students' and teachers' common efforts in learning and assessment.
   + … students are inducted into the assessment practices and cultures
     of higher education. \\
-    A week lecture is set aside to help students understand how to
-    draft portfolio, how to utlise the lab facilities and learn the
-    teamwork with clutures of higher education.
+    A week's lecture is set aside to help students understand how to
+    draft a portfolio, utilise lab facilities, and learn teamwork
+    within higher education cultures.
+    
   + … assessment for learning is placed at the centre of subject and
     program design. \\
-    The portfolio tasks including lab exercises have 40% allocation
+    The portfolio tasks, including lab exercises, have 40% allocation,
     and the final written assignment is also derived from this
-    assignment. We believe that this type of the assessment task has
-    been placed at the center of subject and program design.
+    assignment. We believe that this type of assessment task has been
+    placed at the centre of subject and program design.
+    
   + … assessment for learning is a focus for staff and institutional
     development. \\
-    We put efforts to develop the lab exercises and those are the
+    We put efforts into developing the lab exercises and those are the
     focus for staff and promote institutional development.
   + … assessment provides inclusive and trustworthy representation of
     student achievement. \\
-    We could see the effectiveness in the capstone project how the
-    students use the learned knowledge and skills to build their own
-    network and perform cybersecurity practices.
+    We could see the effectiveness of the capstone project: how the
+    students use the knowledge and skills they have learned to build
+    their own networks and practice cybersecurity. 
 
     
 ** Topic 04
 - *Activity 05* \\
   In the unit COIT11238 Networked Infrastructure Foundations, we have
-  the following types of the assessment types:
+  the following types of the assessments (types):
   + Quiz Questions
   + In-Class Activities
   + Portfolios
@@ -219,14 +217,14 @@
   In the unit COIT11238, we take the example of moderation for the
   assessment task, portfolio, see below the check list:
   - [ ] Provide marking guidance
-  - [ ] Requst 3 marking example (good, moderate and poor) from each
+  - [ ] Request 3 marking examples (good, moderate and poor) from each
     marker to check
   - [ ] Feedback with comments and suggestions to make sure the
-    marking based on the provided guidance and aligned to keep on the
+    marking is based on the provided guidance and aligned to keep to the
     same standard
-  - [ ] Random check some more samples in the upload marking results
+  - [ ] Randomly check some more samples in the upload marking results
     with the feedback files
-  - [ ] Check the academic misconduct cases in TurnItin.
+  - [ ] Check the academic misconduct cases in Turnitin.
 
   *More details:*
     1. The moderation request will be sent to all markers just after
@@ -236,11 +234,11 @@
     2. How many times: for example, in the unit COIT11238, the
        moderation is conducted for the portfolio tasks and the final
        written assessment tasks. There are 3 times in total for two
-       sub portfolio tasks and one final written assessment task.
+       sub-portfolio tasks and one final written assessment task.
 
-    3. The request of moderation is normally sent to all markers
-       through emails. We also communicate through MS Teams. And the
-       records are kept in emails, MS teams, as well as in the uni
+    3. The request for moderation is normally sent to all markers
+       through email. We also communicate through MS Teams. And the
+       records are kept in emails, MS Teams, as well as in the uni
        computer. 
 ** Topic 07
 - *Activity 8*
@@ -253,7 +251,7 @@
 
   \\
   Prefer the first one (Rubric 1), which includes the assessment of individual
-  contributions in a group work. Designing an assessment rubric for
+  contributions in group work. Designing an assessment rubric for
   group work with individual contributions is crucial for fairness,
   clarity, and meaningful learning. A well-crafted rubric translates
   expectations into visible criteria — such as content quality,
@@ -273,7 +271,7 @@
   Practically, it streamlines grading, improves transparency, and
   reduces conflict over credit. Most importantly, it signals the
   assessment’s values: collaboration matters, but so does individual
-  responsibility. By aligning tasks, behaviors, and evidence, the
+  responsibility. By aligning tasks, behaviours, and evidence, the
   rubric turns group work into a structured learning environment where
   every member understands their role, can monitor progress, and
   receives credible recognition for their unique contribution.
@@ -288,22 +286,22 @@
   
 ** Topic 09
 - *Activity 10* \\
-  Recently, we are providing feedback on student assessment tasks with
+  Recently, we have been providing feedback on student assessment tasks with
   the following strategies:
   1. direct comments on their work
   2. notes in the feedback marking spreadsheet
   3. A summary posted through a form discussion.
-  4. Response the students’ email about their assessment.
+  4. Respond to the students’ email about their assessment.
 
   Now, we could consider creating videos to explain a common issue in
   the assessment task, or illustrate the practice in a video to show
-  how the solution can be achieve with reference and linkage to the
+  how the solution can be achieved with reference and linkage to the
   contents and knowledge in this unit.
 
   MS Teams can be utilised to improve the students’ feedback, which
   could enhance the communication between teachers and the students,
-  even one to one or in a private channel so that the feedback could
-  be responded in a effective way. 
+  even one-to-one or in a private channel, so that the feedback could
+  be responded to in an effective way. 
      
 - *Activity 11* \\
 
@@ -315,13 +313,7 @@
   [[./Figure/q6.png]] \\
   [[./Figure/q7.png]] \\
 
-  This is an effective way to generate quiz questions based on the GAI
-  contents, which are professional. It will be helpful for the
-  lecturers to create the practices for students in a quick way and
-  the quiz questions could be updated in different terms. The pool of
-  the questions could be randomly generated for individuals so that
-  the integrity could be ensured. I will consider such effective
-  GAI-based practice in my units. 
+  This is an effective way to generate professional quiz questions based on GAI content. It would be helpful for the lecturers to create practice sessions for students quickly, and the quiz questions could be updated in different terms. The pool of questions could be randomly generated for individuals to ensure integrity. I will consider such an effective GAI-based practice in my units.
   
  
   
