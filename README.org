@@ -163,7 +163,7 @@
   + Assessment tasks mapping to Graduate attributes. \\
     [[./Figure/AT2GA.png]]
 
-*** Assessment Task 1:
+*** Assessment Task 1: [fn:1]
 - Title: Online Quiz
 - Weighting: 30%
 - Due Date:
@@ -198,7 +198,7 @@
   quizzes, you cannot do them later.
   
 
-*** Assessment Task 2:
+*** Assessment Task 2: [fn:1]
 - Title: Portfolio
 - Weighting: 40%
 - Due Date:
@@ -316,4 +316,4 @@
  This is an effective way to generate professional quiz questions based on GAI content. It would be helpful for the lecturers to create practice sessions for students quickly, and the quiz questions could be updated in different terms. The pool of questions could be randomly generated for individuals to ensure integrity. I will consider such an effective GAI-based practice in my units.
 
   
-  
+  [fn:1] CQUniversity Unit Profile (COIT11238): https://handbook.cqu.edu.au/facet/unit-profiles/profile/COIT11238/2025/HT1
