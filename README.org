@@ -315,5 +315,5 @@
 
  This is an effective way to generate professional quiz questions based on GAI content. It would be helpful for the lecturers to create practice sessions for students quickly, and the quiz questions could be updated in different terms. The pool of questions could be randomly generated for individuals to ensure integrity. I will consider such an effective GAI-based practice in my units.
 
-  
-  [fn:1] [[https://handbook.cqu.edu.au/facet/unit-profiles/profile/COIT11238/2025/HT1][CQUniversity Unit Profile (COIT11238):]]
+* Reference:
+[fn:1] [[https://handbook.cqu.edu.au/facet/unit-profiles/profile/COIT11238/2025/HT1][CQUniversity Unit Profile (COIT11238):]]
