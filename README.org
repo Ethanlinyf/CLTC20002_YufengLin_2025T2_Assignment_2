@@ -210,7 +210,10 @@
   Week 7.
   + Portfolio Part 2 (20%) covers Weeks 7–10 and is due on Friday of Week 11.
 
-  Each submission must be compiled into a structured document and submitted via Moodle. This assessment enables students to demonstrate their understanding and practical engagement with the unit content.
+  Each submission must be compiled into a structured document and
+  submitted via Moodle. This assessment enables students to
+  demonstrate their understanding and practical engagement with the
+  unit content[fn:1].
 
 ** Topic 06
 - *Activity 7*
@@ -274,7 +277,7 @@
   responsibility. By aligning tasks, behaviours, and evidence, the
   rubric turns group work into a structured learning environment where
   every member understands their role, can monitor progress, and
-  receives credible recognition for their unique contribution. [fn:1]
+  receives credible recognition for their unique contribution.
   
 
 ** Topic 08
