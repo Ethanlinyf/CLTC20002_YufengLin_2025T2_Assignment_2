@@ -1,24 +1,25 @@
 * CLTC20002_YufengLin2025T2_Assignment_2
 ** Topic 01
-- Activity 1
+- *Activity 1*
   + Are your ideas about assessment the same now?\\
-    After learning the content this week and read the provided
-    article, now agree with "Assessment Identity Is Dynamic and Multidimensional"
-    and it always evolves over time and is inluenced by personal
+    After learning the content this week and reading the provided
+    article, I now agree with "Assessment Identity Is Dynamic and Multidimensional"
+    and it always evolves over time and is influenced by personal
     experiences. Professional context and other factors.
 
     The Assessment is a sociocultural and contextual activity. It is a
-    technical process and deeply inflencey by crriculum expectations
-    and community balues. The assignment shapes and is shaped by the
+    technical process and deeply inflencey by curriculum expectations
+    and community values. The assignment shapes and is shaped by the
     identities of both learners and teachers.
 
     We believe that assessment is more than measurement now. It is a
-    process to determine what students know and can do and achieve.
+    process for determining what students know and can do and what
+    they can achieve.
     The assessment serves multiple purposes, such as formative and
     summative. 
   + Do you think that assessment has the same purpose and intentions
     as it did back then?\\
-    No, as the the paper convincingly argues, the purpose and intentions of assessment are now understood to be far more complex, personal, and deeply integrated into the very fabric of teaching and learning than they were in the past. The focus has shifted from merely what teachers know how to do to who they are as assessors.
+    No, as the paper convincingly argues, the purpose and intentions of assessment are now understood to be far more complex, personal, and deeply integrated into the very fabric of teaching and learning than they were in the past. The focus has shifted from merely what teachers know how to do to who they are as assessors.
     
   + To what extent have your attitudes to assessment changed since
     becoming an educator?\\ 
@@ -34,7 +35,7 @@
   + What other elements may influence your beliefs about assessment?\\
     Here are some other elements:
     1. The university culture "To be what you want to be"
-    2. Ongoing Learning and professional development
+    2. Ongoing Learning and Professional Development
     3. The improvement of my understanding of L&T philosophy. 
 
 ** Topic 02
@@ -227,8 +228,8 @@
     with the feedback files
   - [ ] Check the academic misconduct cases in TurnItin.
 
-  *Comments:*
-    1. the moderation request will be sent to all markers just after
+  *More details:*
+    1. The moderation request will be sent to all markers just after
        the due date of the assessment tasks. (Marking guidance is also
        provided.)
 
@@ -241,8 +242,6 @@
        through emails. We also communicate through MS Teams. And the
        records are kept in emails, MS teams, as well as in the uni
        computer. 
-
-    4. 
 ** Topic 07
 - *Activity 8*
   Develop Two rubrics: one is for teamwork in a spreadsheet and the
