@@ -163,7 +163,7 @@
   + Assessment tasks mapping to Graduate attributes. \\
     [[./Figure/AT2GA.png]]
 
-*** Assessment Task 1: [fn:1]
+*** Assessment Task 1: 
 - Title: Online Quiz
 - Weighting: 30%
 - Due Date:
@@ -195,10 +195,10 @@
 
   Extensions are not possible for quizzes because the answers will be
   released after the due date of the Quiz. If you miss attempting the
-  quizzes, you cannot do them later.
+  quizzes, you cannot do them later. 
   
 
-*** Assessment Task 2: [fn:1]
+*** Assessment Task 2:
 - Title: Portfolio
 - Weighting: 40%
 - Due Date:
@@ -274,7 +274,7 @@
   responsibility. By aligning tasks, behaviours, and evidence, the
   rubric turns group work into a structured learning environment where
   every member understands their role, can monitor progress, and
-  receives credible recognition for their unique contribution.
+  receives credible recognition for their unique contribution. [fn:1]
   
 
 ** Topic 08
