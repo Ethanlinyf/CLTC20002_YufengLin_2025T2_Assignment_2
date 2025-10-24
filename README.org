@@ -313,8 +313,7 @@
   [[./Figure/q6.png]] \\
   [[./Figure/q7.png]] \\
 
-  This is an effective way to generate professional quiz questions based on GAI content. It would be helpful for the lecturers to create practice sessions for students quickly, and the quiz questions could be updated in different terms. The pool of questions could be randomly generated for individuals to ensure integrity. I will consider such an effective GAI-based practice in my units.
-  
- 
+ This is an effective way to generate professional quiz questions based on GAI content. It would be helpful for the lecturers to create practice sessions for students quickly, and the quiz questions could be updated in different terms. The pool of questions could be randomly generated for individuals to ensure integrity. I will consider such an effective GAI-based practice in my units.
+
   
   
