@@ -58,7 +58,33 @@
 
   My essay is more operational. It adds distinct sections—core principles, six “question families,” a step-by-step loop, multiple domain examples (teaching, coaching, self-reflection), common pitfalls with fixes, ethical cautions, a mini script, and a practice plan. It prioritizes actionable prompts (“What would move you one point on a 0–10 scale?”), implications testing, counterexamples, and synthesis.
 
-  Overlap: both center on clarifying terms, surfacing assumptions, and grounding claims in evidence. Differences: mine broadens categories (e.g., testing implications, questioning the question), shifts toward behavior change and experiments, and uses more conversational, coaching-style language. In sum, same methodology; different articulation and application focus.
+  Overlap: both center on clarifying terms, surfacing assumptions, and
+  grounding claims in evidence. Differences: mine broadens categories
+  (e.g., testing implications, questioning the question), shifts
+  toward behavior change and experiments, and uses more
+  conversational, coaching-style language. In sum, same methodology;
+  different articulation and application focus.
+
+  *Have a think about how students might be able to use AI to cheat
+  your assessment and make a comment in your portfolio.* \\
+
+  *Response:* \\
+    In COIT11238 Networked Infrastructure Foundations, multiple-choice
+    quizzes may be vulnerable to integrity issues, as students can use
+    AI tools to generate answers with minimal personal effort.
+    Likewise, for the final written assessment, students could rely on
+    ChatGPT to design a basic network and perform packet-capture
+    analysis.
+
+  To mitigate these risks, the portfolio task emphasizes
+    hands-on practice and lab exercises using physical network
+    devices. Students must document their process with screenshots and
+    photographs of tutorial activities and lab work, which
+    substantially reduces the impact of AI tools. 
+
+  
+  
+  
 
 ** Topic 03
 - *Activity 4* \\
@@ -138,6 +164,55 @@
   + Assessment tasks mapping to Graduate attributes. \\
     [[./Figure/AT2GA.png]]
 
+*** Assessment Task 1:
+- Title: Online Quiz
+- Weighting: 30%
+- Due Date:
+  Quiz 1 (15%) is due on Sunday of Week 6; Quiz 2 (15%) is due on Sunday of Week 10. Warning: the quizzes close after the due dates, and no further attempts are allowed.
+- Description:
+  This assessment item includes two online quizzes: Quiz 1 and Quiz 2.
+  The quizzes consist of questions (e.g., multiple-choice, short
+  answers). Questions will be drawn from topics in Weeks 1 to 5
+  (Quiz 1) and Weeks 6 to 9 (Quiz 2). Complete these Moodle online
+  quizzes by the due date. The quizzes automatically close if you have
+  not submitted your attempt at a quiz by the due date/time. The
+  quizzes will be finalised (automatically submitted) at the due
+  date/time. Before the due date. You need to submit each quiz attempt
+  to check the results.
+
+  You can attempt the quizzes as many times as you want before the due
+  date. However, your last submission for each quiz will be assessed
+  as the final result.Please record the details of your submission
+  (e.g., the received result, as well as the date and time of your
+  submission by taking a screenshot) in case there are any problems
+  with your submission to the Moodle system.
+
+  Please note that the questions are selected randomly from a question
+  pool, so you will unlikely be asked the same questions each time you
+  attempt the quizzes. You will not be able to see your detailed
+  feedback on the results until the quiz has closed. To try and submit
+  the quiz, your computer must be connected to the Internet, although
+  it is possible to save and resume the quiz later. 
+
+  Extensions are not possible for quizzes because the answers will be
+  released after the due date of the Quiz. If you miss attempting the
+  quizzes, you cannot do them later.
+  
+
+*** Assessment Task 2:
+- Title: Portfolio
+- Weighting: 40%
+- Due Date:
+  The first submission is due on Friday of Week 7, and the second submission is due on Friday of Week 11.
+- Description:
+  The Portfolio assessment requires students to document their weekly tutorial activities and lab exercises throughout the term. This includes screenshots, testing results, reflections, and key learnings. The portfolio is submitted in two parts:
+
+  + Portfolio Part 1 (20%) covers Weeks 3–6 and is due on Friday of
+  Week 7.
+  + Portfolio Part 2 (20%) covers Weeks 7–10 and is due on Friday of Week 11.
+
+  Each submission must be compiled into a structured document and submitted via Moodle. This assessment enables students to demonstrate their understanding and practical engagement with the unit content.
+
 ** Topic 06
 - *Activity 7*
   In the unit COIT11238, we take the example of moderation for the
@@ -152,20 +227,58 @@
     with the feedback files
   - [ ] Check the academic misconduct cases in TurnItin.
 
+  *Comments:*
+    1. the moderation request will be sent to all markers just after
+       the due date of the assessment tasks. (Marking guidance is also
+       provided.)
+
+    2. How many times: for example, in the unit COIT11238, the
+       moderation is conducted for the portfolio tasks and the final
+       written assessment tasks. There are 3 times in total for two
+       sub portfolio tasks and one final written assessment task.
+
+    3. The request of moderation is normally sent to all markers
+       through emails. We also communicate through MS Teams. And the
+       records are kept in emails, MS teams, as well as in the uni
+       computer. 
+
+    4. 
 ** Topic 07
 - *Activity 8*
   Develop Two rubrics: one is for teamwork in a spreadsheet and the
   other is embedded in Moodle system. See below the screenshots:
-  [[./Figure/rubric_1.png]]
-
-  [[./Figure/rubric_2.png]]
+  + Rubric 1: Teamwork with individual contribution
+     [[./Figure/rubric_1.png]]
+  + Rubric 2: Embedded in the Moodle system. 
+     [[./Figure/rubric_2.png]]
 
   \\
-  Prefer the first one, which includes the assessment of individual
+  Prefer the first one (Rubric 1), which includes the assessment of individual
   contributions in a group work. Designing an assessment rubric for
   group work with individual contributions is crucial for fairness,
   clarity, and meaningful learning. A well-crafted rubric translates
-  expectations into visible criteria — such as content quality, collaboration, initiative, timeliness, and professional conduct—so students know what “good” looks like and how their personal effort affects outcomes. It safeguards equity by distinguishing shared products from personal impact, reducing free-riding and ensuring recognition for leadership, creativity, or behind-the-scenes coordination. Rubrics also increase reliability: consistent descriptors anchor judgments across markers and projects, making grades more defensible and feedback more actionable. When paired with self- and peer-evidence (e.g., logs, reflections, peer ratings), the rubric triangulates performance to capture process as well as product. Pedagogically, it guides students’ attention to transferable skills—planning, communication, and accountability—while enabling targeted coaching where gaps appear. Practically, it streamlines grading, improves transparency, and reduces conflict over credit. Most importantly, it signals the assessment’s values: collaboration matters, but so does individual responsibility. By aligning tasks, behaviors, and evidence, the rubric turns group work into a structured learning environment where every member understands their role, can monitor progress, and receives credible recognition for their unique contribution.
+  expectations into visible criteria — such as content quality,
+  collaboration, initiative, timeliness, and professional conduct—so
+  students know what “good” looks like and how their personal effort
+  affects outcomes. It safeguards equity by distinguishing shared
+  products from personal impact, reducing free-riding and ensuring
+  recognition for leadership, creativity, or behind-the-scenes
+  coordination. Rubrics also increase reliability: consistent
+  descriptors anchor judgments across markers and projects, making
+  grades more defensible and feedback more actionable. When paired
+  with self- and peer-evidence (e.g., logs, reflections, peer
+  ratings), the rubric triangulates performance to capture process as
+  well as product. Pedagogically, it guides students’ attention to
+  transferable skills—planning, communication, and
+  accountability—while enabling targeted coaching where gaps appear.
+  Practically, it streamlines grading, improves transparency, and
+  reduces conflict over credit. Most importantly, it signals the
+  assessment’s values: collaboration matters, but so does individual
+  responsibility. By aligning tasks, behaviors, and evidence, the
+  rubric turns group work into a structured learning environment where
+  every member understands their role, can monitor progress, and
+  receives credible recognition for their unique contribution.
+  
 
 ** Topic 08
 - *Activity 9* \\
