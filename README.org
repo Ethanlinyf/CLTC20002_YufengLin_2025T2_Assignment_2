@@ -241,7 +241,7 @@
        through email. We also communicate through MS Teams. And the
        records are kept in emails, MS Teams, as well as in the uni
        computer. 
-    4. The 
+
 ** Topic 07
 - *Activity 8*
   Develop two rubrics: one is for teamwork in a spreadsheet and the
@@ -276,7 +276,7 @@
   responsibility. By aligning tasks, behaviours, and evidence, the
   rubric turns group work into a structured learning environment where
   every member understands their role, can monitor progress, and
-  receives credible recognition for their unique contribution.
+  receives credible recognition for their unique contribution. (This part is optimised by ChatGPT 5 on 20th October, 2025)
   
 
 ** Topic 08
@@ -315,7 +315,7 @@
   [[./Figure/q6.png]] \\
   [[./Figure/q7.png]] \\
 
- This is an effective way to generate professional quiz questions based on GAI content. It would be helpful for the lecturers to create practice sessions for students quickly, and the quiz questions could be updated in different terms. The pool of questions could be randomly generated for individuals to ensure integrity. I will consider such an effective GAI-based practice in my units.
+ This is an effective way to generate professional quiz questions based on GAI content. It would be helpful for the lecturers to quickly create practice sessions for students, and the quiz questions could be updated for different terms. The pool of questions could be randomly generated for individuals to ensure integrity. I will consider such an effective GAI-based practice in my units.
 
 * Reference:
 [fn:1] [[https://handbook.cqu.edu.au/facet/unit-profiles/profile/COIT11238/2025/HT1][CQUniversity Unit Profile (COIT11238):]]
