@@ -4,7 +4,7 @@
   + Are your ideas about assessment the same now?\\
     After learning the content this week and reading the provided
     article, I now agree with "Assessment Identity Is Dynamic and Multidimensional"
-    and it always evolves over time and is influenced by personal
+    and it always evolves and is influenced by personal
     experiences. Professional context and other factors.
 
     The Assessment is a sociocultural and contextual activity. It is a
@@ -13,7 +13,7 @@
     identities of both learners and teachers.
 
     We believe that assessment is more than measurement now. It is a
-    process for determining what students know and can do and what
+    process for determining what students know and can do, and what
     they can achieve.
     The assessment serves multiple purposes, such as formative and
     summative. 
@@ -53,9 +53,9 @@
 
   
   They’re not the same; the ideas overlap, but the words, structure,
-  and emphases differ. The provided output reads like a classic overview with five components (clarification, probing assumptions, exploring perspectives, examining evidence, challenging conclusions) followed by practical strategies (active listening, open-ended questions, safety, patience, modeling). It’s explanatory and linear, with a formal tone and traditional definitions. 
+  and emphases differ. The provided output reads like a classic overview with five components (clarification, probing assumptions, exploring perspectives, examining evidence, challenging conclusions) followed by practical strategies (active listening, open-ended questions, safety, patience, modelling). It’s explanatory and linear, with a formal tone and traditional definitions. 
 
-  The provided entered input was into ChatGPT 3.
+  The provided input was entered into ChatGPT 3.
 
   My essay is more operational. It adds distinct sections—core principles, six “question families,” a step-by-step loop, multiple domain examples (teaching, coaching, self-reflection), common pitfalls with fixes, ethical cautions, a mini script, and a practice plan. It prioritises actionable prompts (“What would move you one point on a 0–10 scale?”), implications testing, counterexamples, and synthesis.
 
@@ -71,14 +71,14 @@
 
   *Response:* \\
     In COIT11238 Networked Infrastructure Foundations, multiple-choice
-    quizzes may be vulnerable to integrity issues, as students can use
+    Quizzes may be vulnerable to integrity issues, as students can use
     AI tools to generate answers with minimal personal effort.
     Likewise, for the final written assessment, students could rely on
     ChatGPT to design a basic network and perform packet-capture
     analysis.
 
   To mitigate these risks, the portfolio task emphasises
-    hands-on practice and lab exercises using physical network
+    hands-on practice and lab exercises using a physical network
     devices. Students must document their process with screenshots and
     photographs of tutorial activities and lab work, which
     substantially reduces the impact of AI tools. 
@@ -120,7 +120,7 @@
     development. \\
     We put efforts into developing the lab exercises and those are the
     focus for staff and promote institutional development.
-  + … assessment provides inclusive and trustworthy representation of
+  + … assessment provides an inclusive and trustworthy representation of
     student achievement. \\
     We could see the effectiveness of the capstone project: how the
     students use the knowledge and skills they have learned to build
@@ -130,7 +130,7 @@
 ** Topic 04
 - *Activity 05* \\
   In the unit COIT11238 Networked Infrastructure Foundations, we have
-  the following types of the assessments (types):
+  the following types of assessments (types):
   + Quiz Questions
   + In-Class Activities
   + Portfolios
@@ -146,7 +146,7 @@
 
 ** Topic 05
 - *Activity 06* \\
-  See below the assessment design for the unit COIT11238:
+  See below the assessment strategies for the unit COIT11238 (ongoing improvement):
 
   + The learning outcomes\\
     [[./Figure/LO.png]]
@@ -181,7 +181,7 @@
 
   You can attempt the quizzes as many times as you want before the due
   date. However, your last submission for each quiz will be assessed
-  as the final result.Please record the details of your submission
+  as the final result. Please record the details of your submission
   (e.g., the received result, as well as the date and time of your
   submission by taking a screenshot) in case there are any problems
   with your submission to the Moodle system.
@@ -218,7 +218,7 @@
 ** Topic 06
 - *Activity 7*
   In the unit COIT11238, we take the example of moderation for the
-  assessment task, portfolio, see below the check list:
+  assessment task, portfolio, see below the checklist:
   - [ ] Provide marking guidance
   - [ ] Request 3 marking examples (good, moderate and poor) from each
     marker to check
@@ -228,7 +228,7 @@
   - [ ] Randomly check some more samples in the upload marking results
     with the feedback files
   - [ ] Check the academic misconduct cases in Turnitin.
-
+  - [ ] Share the moderation samples in the unit Moodle website (hidden). Avoid sensitive data and information to be shared. 
   *More details:*
     1. The moderation request will be sent to all markers just after
        the due date of the assessment tasks. (Marking guidance is also
@@ -243,6 +243,7 @@
        through email. We also communicate through MS Teams. And the
        records are kept in emails, MS Teams, as well as in the uni
        computer. 
+    4. The 
 ** Topic 07
 - *Activity 8*
   Develop Two rubrics: one is for teamwork in a spreadsheet and the
