@@ -228,7 +228,7 @@
   - [ ] Randomly check some more samples in the upload marking results
     with the feedback files
   - [ ] Check the academic misconduct cases in Turnitin.
-  - [ ] Share the moderation samples in the unit Moodle website (hidden). Avoid sensitive data and information to be shared. 
+  - [ ] Share the moderation samples as a reference for the coming unit coordinator on the unit Moodle website (hidden). Avoid sharing sensitive data and information. 
   *More details:*
     1. The moderation request will be sent to all markers just after
        the due date of the assessment tasks. (Marking guidance is also
@@ -246,15 +246,15 @@
     4. The 
 ** Topic 07
 - *Activity 8*
-  Develop Two rubrics: one is for teamwork in a spreadsheet and the
-  other is embedded in Moodle system. See below the screenshots:
+  Develop two rubrics: one is for teamwork in a spreadsheet and the
+  The other is embedded in the Moodle system. See below the screenshots:
   + Rubric 1: Teamwork with individual contribution
      [[./Figure/rubric_1.png]]
   + Rubric 2: Embedded in the Moodle system. 
      [[./Figure/rubric_2.png]]
 
   \\
-  Prefer the first one (Rubric 1), which includes the assessment of individual
+  Prefer the first one (Rubric 1, *analytical*), which includes the assessment of individual
   contributions in group work. Designing an assessment rubric for
   group work with individual contributions is crucial for fairness,
   clarity, and meaningful learning. A well-crafted rubric translates
@@ -308,7 +308,7 @@
   be responded to in an effective way. 
      
 - *Activity 11* \\
-
+   Using the quiz maker [fn:2]
   [[./Figure/q1.png]] \\
   [[./Figure/q2.png]] \\
   [[./Figure/q3.png]] \\
@@ -321,3 +321,4 @@
 
 * Reference:
 [fn:1] [[https://handbook.cqu.edu.au/facet/unit-profiles/profile/COIT11238/2025/HT1][CQUniversity Unit Profile (COIT11238):]]
+[fn:2] [[https://quizizz.com/admin?modal=contentCreation&type=quiz&ctaSource=quizmaker-main&fromPage=quizmaker&lng=en][Quiz Maker]]
