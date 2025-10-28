@@ -43,10 +43,8 @@
 - *Activity 2* \\
   *Reflecting on your own assessment practices in your unit, develop
   an infographic that provides information for students around
-  academic integrity. * My area is networking, see below:
-
-  [[file:Figure/infographic.png][An inforgraphic for academic integrity]]
-
+  academic integrity. * My area is networking, see below: (some ideas were generated and optimised by ChatGPT 5 on 10th October, 2025)
+  
   [[./Figure/infographic.png]]
 - *Activity 3* \\
   [[./Figure/GAI.png]]
